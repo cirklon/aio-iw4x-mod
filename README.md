@@ -8,7 +8,6 @@ Small, simple mod used for gamebattles, FFA sniping & headquarters on IW4x.
 
 # Custom Weapons
 - Bloody knife ported from the campaign
-- R700 ported from the campaign
 - G36C ported from special ops, this can be found on Terminal, Highrise & Invasion in secret locations
 
 # Game Battles
