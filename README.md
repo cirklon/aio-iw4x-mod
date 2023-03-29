@@ -9,6 +9,7 @@ Small, simple mod used for gamebattles, FFA sniping & headquarters on IW4x.
 # Custom Weapons
 - Bloody knife ported from the campaign
 - G36C ported from special ops, this can be found on Terminal, Highrise & Invasion in secret locations
+- Intervention Iron Sight - credits to Simon
 
 # Game Battles
 - Built in S&D rules for gamebattles
@@ -28,7 +29,7 @@ Small, simple mod used for gamebattles, FFA sniping & headquarters on IW4x.
 - Nerfed the Famas & M16, they no longer 1 burst, sorry
 
 # Sniping Modes (FFA / HQ)
-- Random sniper every spawn (Intervention, Barrett, R700, M40A3)
+- Random sniper every spawn (Intervention, Barrett)
 - Bloody knife secondary ported from the final mission in the campaign
 - Miniscule health (Allowed weapons)
 - Correct perks given (SoH, Quickdraw, Steady Aim)
